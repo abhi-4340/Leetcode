@@ -18,8 +18,17 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhi-4340/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/abhi-4340/Leetcode/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhi-4340/Leetcode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhi-4340/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhi-4340/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
