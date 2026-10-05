@@ -14,6 +14,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhi-4340/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhi-4340/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/abhi-4340/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhi-4340/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhi-4340/Leetcode/tree/master/0054-spiral-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhi-4340/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
