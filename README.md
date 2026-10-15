@@ -4,15 +4,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhi-4340/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhi-4340/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/abhi-4340/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhi-4340/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhi-4340/Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhi-4340/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhi-4340/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhi-4340/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/abhi-4340/Leetcode/tree/master/0038-count-and-say) |
