@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/abhi-4340/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/abhi-4340/Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/abhi-4340/Leetcode/tree/master/0242-valid-anagram) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/abhi-4340/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/abhi-4340/Leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/abhi-4340/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/abhi-4340/Leetcode/tree/master/1108-defanging-an-ip-address) |
