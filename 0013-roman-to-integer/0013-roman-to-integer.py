@@ -1,3 +1,4 @@
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         values = {
@@ -10,12 +11,12 @@ class Solution:
             'M': 1000
         }
 
-        total = 0
+        result = 0
 
         for i in range(len(s)):
             if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
-                total -= values[s[i]]
+                result -= values[s[i]]
             else:
-                total += values[s[i]]
+                result += values[s[i]]
 
-        return total
+        return result
